@@ -5,7 +5,7 @@ Version: 1.0
 Date: 2009-07-08
 Author: Pengcheng Yang <pengchy@gmail.com>
 Maintainer: Pengcheng Yang <pengchy@gmail.com>
-Depends: GO.db, KEGG.db
-Description: This package is designed to do GSEA for genes with customized annotation.
+Depends: methods
+Description: This package is designed to do GSEA for genes with customized annotation. GO.db and KEGG.db packages are needed
 License: LGPL
 LazyLoad: yes
